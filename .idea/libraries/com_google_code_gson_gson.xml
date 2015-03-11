@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com-google-code-gson_gson">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plibary-module/libs/com-google-code-gson_gson.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
