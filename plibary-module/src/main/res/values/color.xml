@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 이미지 로딩 배경 -->
+    <array name="imageview_loading_background_colors">
+        <item>#bb877a</item>
+        <item>#beb697</item>
+    </array>
+</resources>
